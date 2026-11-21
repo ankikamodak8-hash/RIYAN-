@@ -1,0 +1,8 @@
+{
+  "name": "AeroForge Global",
+  "description": "Global airforce flight simulator, custom aircraft designer, aerodynamic unit manager, and world airport navigation trainer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
